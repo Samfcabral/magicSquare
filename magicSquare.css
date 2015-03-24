@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto auto
+}
+
+.square {
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+}
+
+.box {
+  height: 190px;
+  width: 190px;
+  border: 2px solid black;
+  float: left;
+  margin: 4px;
+}
+
+input.inputs {
+  height: 180px;
+  width: 180px;
+  font-size: 50px;
+  text-align: center;
+  border: none;
+}
