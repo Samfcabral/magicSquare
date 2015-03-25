@@ -1,11 +1,12 @@
 * {
-  margin: 0 auto auto
+  text-align: center;
 }
 
 .square {
   width: 600px;
   height: 600px;
   border: 2px solid black;
+  margin: 0 auto auto;
 }
 
 .box {
